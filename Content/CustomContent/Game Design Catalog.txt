@@ -1,0 +1,79 @@
+
+
+DGDARC/DGG Networking Drink 2016 - Student Sign Up - June 9, 17:00-19:00
+
+Participants:
+- Arianne
+- Dustin
+- Steven
+
+Cat interaction:
+A) Show time
+B) Poke OR slap
+
+    
+FLOOR 1
+* Livingroom (START)
+    Show text: "How dare this hooman lock me up! What can I do to take revenge?"
+    Items: catbox, agenda, clock ...
+    1) Get out of catbox
+    2) Look at agenda on table
+    Show text: "Let's see what (s)he's planning"
+    Interaction:
+        A) Flip open
+    Information found:
+        A) Time planned to return
+        B) Sell priceless ming vase
+        C) Watch recorded film
+        D) Clean up mother in law's cauldron
+    3) Look at grandpa clock
+    Show text: ""
+    Interaction:
+        A) Hit pendulum
+        --> Stop time
+    Information:
+        A) View current time
+    4)
+* Kitchen
+    Show text: ""
+    Items: recipe book, ...
+    1) 
+* WC
+    Show text: ""
+    Items: toilet paper
+    Interaction:
+        A) Move toilet paper
+        B) Flush toilet
+        --> Overflow if added paper
+* 
+
+FLOOR 2
+* Bathroom
+    ...
+* Study
+    Items: work phone
+    Interaction:
+        A) Call with phone
+        --> Initiate nuclear strike
+Work telephone
+* Bedroom
+
+BASEMENT
+* Room
+    Items: Candles
+    Interaction:
+        A) Hit candles
+        --> Destroy active circle
+        B) Walk into (active) circle
+        --> Turn view red?
+        C) Swipe salt circle
+        --> Free demon?
+
+ATTIC
+* Room
+    Items: closet
+    Interaction:
+        A) Open closet
+        --> Free ghost, haunts house
+
+*
